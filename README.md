@@ -70,7 +70,10 @@
 <br>
 <br>💥After this we will run this tool.
 <br>
-<br>💥python3 geo.py -ip=$IP or -ip=$Host and select all [options] 
+<br>$ python3 geo.py -ip=$IP or -ip=$Host and select all [options] 
+<br>💥For Example
+<br>$ python3  -ip=google.com -c= -cit= -con= -code=  -postal= -asn= -zone= -metro= -latitude= -longitude= -dma=
+
 
 <br>
 <br>
