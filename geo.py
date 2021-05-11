@@ -28,7 +28,7 @@ print("\033[1;33;40m" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +"\n"
    
 
 
-print("[*] Tool - GeoOccupy: A geolocation finder tool via CLI\n" + "[*] Lang&Version - Python3\n" + "[*] Creation Date - May 8 2021 \n" + "[*] Please report any incorrect results at kumaratuljaiswal.in@gmail.com\n")
+print("[*] Tool - GeoOccupy: A geolocation finder tool via CLI\n" + "[*] Lang&Version - Python3\n" + "[*] Creation Date - May 8 2021 \n" + "[*] Please report any incorrect results at kumaratuljaiswal222@gmail.com\n")
 
 
 print("\033[1;33;40m" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +"\n" + "\033[0;0m")
