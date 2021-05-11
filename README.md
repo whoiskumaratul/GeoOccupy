@@ -75,14 +75,14 @@
 <br>
 <br>$ python3 geo.py -ip=$IP or -ip=$Host and select all [options] 
 <br>💥For Example
-<br>$ python3  -ip=google.com -c= -cit= -con= -code=  -postal= -asn= -zone= -metro= -latitude= -longitude= -dma=
+<br>$ python3  -ip=google.com [Options]
 
 
 <br>
 <br>
 <br>
 <br><h2>💥Any help?💥</h2>
-<br>$ python3 geo.py -h
+<br>$ python3 geooccupy.py -h
 
 <br>
 <br>
