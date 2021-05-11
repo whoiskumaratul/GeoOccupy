@@ -8,10 +8,13 @@
 <br>💥<b>Date                 - 8/5/2021
 <br>💥<b>Programming Language - Python3
 <br>
-<br>🌐website              - https://www.kumaratuljaiswal.in
 <br>🌐website              - https://www.hackingtruth.in
+<br>🌐website              - https://academy.hackingtruth.in
+<br>🌐website              - https://www.hackingtruth.org 
+<br>🌐website              - https://www.kumaratuljaiswal.in
+<br>🌐website              - https://iam.kumaratuljaiswal.in
 <br>
-<br>🔥YT Channel🔥         - https://youtube.com/c/whoiskumaratul
+<br>🔥YT Channel🔥         - https://youtube.com/c/whoiskumaratul <b>(RIP) :-(</b>
 <br>
 <br>
 <br>🔥Stay Connected🔥<br>
@@ -44,7 +47,7 @@
 <br>
 
 <br>
-<br>$ cd geooccupy.py
+<br>$ cd GeoOccupy
 <br>
 <br>
 <br>
