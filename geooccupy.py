@@ -100,7 +100,7 @@ def printRecord(ip, given_args):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='GeoOccupy is command line argument tool. GeoOccupy means geolocation finder, which is used to find country, city, continent, country code, postal, time-zone via IP or Host. \n', prog='python3 geo2.py',  usage='%(prog)s [options]')
+    parser = argparse.ArgumentParser(description='GeoOccupy is command line argument tool. GeoOccupy means geolocation finder, which is used to find country, city, continent, country code, postal, time-zone via IP or Host. \n', prog='python3 geooccupy.py',  usage='%(prog)s [options]')
     parser.add_argument('-ip', action = 'store', dest='ip', help='IP or Host name that you want to extract info', required=True)
     parser.add_argument('-c', action = 'store_true', dest='country', help='Find country name')#, required=True)
     parser.add_argument('-cit', action = 'store_true', dest='city', help='Find city name' )#, required=True)
