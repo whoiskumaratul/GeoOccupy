@@ -1,0 +1,4 @@
+sockets == 1.0.0 
+pygeoip == 0.3.2
+argparse == 1.4.0 
+colorama == 0.4.4
