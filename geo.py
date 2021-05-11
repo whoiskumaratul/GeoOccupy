@@ -39,8 +39,8 @@ import argparse
 from colorama import Fore, Back, Style
 import sys
 
-db1 = pygeoip.GeoIP('/home/hackerboy/Desktop/python/pygeoip/GeoIPASNum.dat')
-db2 = pygeoip.GeoIP('/home/hackerboy/Desktop/python/pygeoip/GeoLiteCity-data/GeoLiteCity.dat')
+db1 = pygeoip.GeoIP('GeoIPASNum.dat')
+db2 = pygeoip.GeoIP('GeoLiteCity.dat')
 def printRecord(ip):
     try:
         database1 = db1.org_by_name(ip)
