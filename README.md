@@ -51,9 +51,9 @@
 
 <br><h2>💥Requirements💥</h2>
 <br>
-<br>💥requirements.txt module file
-<!--<br>💥Database file https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz-->
-<!--<br>💥Databse file https://github.com/whoiskumaratul/GeoLiteCityDB.git -->
+<br>💥Install requirements.txt Module File
+<br><!-- 💥Database file https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz-->
+<br><!-- 💥Databse file https://github.com/whoiskumaratul/GeoLiteCityDB.git -->
 <br>
 <br>
 <br>
