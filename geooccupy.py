@@ -107,12 +107,12 @@ def main():
     parser.add_argument('-con', action = 'store_true', dest='continent', help='Find continent')#, required=True)
     parser.add_argument('-code', action = 'store_true', dest='code', help='Find country code')#, required=True)
     parser.add_argument('-postal', action = 'store_true', dest='postal', help='Find postal code')#, required=True)
-    parser.add_argument('-asn', action = 'store_true', dest='asn', help='Find ASN number')#, required=True)
+    parser.add_argument('-asn', action = 'store_true', dest='asn', help='Find ASN number (Autonomous System Number)')#, required=True)
     parser.add_argument('-zone', action = 'store_true', dest='zone', help='Find time-zone')#, required=True)
     parser.add_argument('-metro', action = 'store_true', dest='metro', help='Find metro code')#, required=True)
-    parser.add_argument('-latitude', action = 'store_true', dest='latitude', help='Find latitude')
-    parser.add_argument('-longitude', action = 'store_true', dest='longitude', help='Find longitude')
-    parser.add_argument('-dma', action = 'store_true', dest='dma', help='Find DMA code')
+    parser.add_argument('-lat', action = 'store_true', dest='latitude', help='Find latitude')
+    parser.add_argument('-long', action = 'store_true', dest='longitude', help='Find longitude')
+    parser.add_argument('-dma', action = 'store_true', dest='dma', help='Find DMA code (Designated Market Area)')
     
     given_args = parser.parse_args()
     
