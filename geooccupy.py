@@ -18,6 +18,10 @@ $$    $$/ $$       |$$    $$/ $$    $$/ $$       |$$       |$$    $$/ $$    $$/ 
 # except:
 #     print(header + "                           by @hackingtruthin\n")    
 
+try:
+    print(header)
+except:
+    print(header) 
     
 
 print("\033[1;33;40m" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +3*"/" +20*"*" +"\n" + "\033[0;0m")
