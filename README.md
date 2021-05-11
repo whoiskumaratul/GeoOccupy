@@ -52,8 +52,8 @@
 <br><h2>💥Requirements💥</h2>
 <br>
 <br>💥requirements.txt module file
-<br>💥Database file https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz
-<br>💥Databse file https://github.com/whoiskumaratul/GeoLiteCityDB.git 
+<!--<br>💥Database file https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz-->
+<!--<br>💥Databse file https://github.com/whoiskumaratul/GeoLiteCityDB.git -->
 <br>
 <br>
 <br>
@@ -64,9 +64,9 @@
 <br>💥First of all you need to install the requirements.txt file like python modules -
 <br>$ sudo pip install -r requirements.txt<br>
 <br>
-<br> then we download a database file -
+<!--<br> then we download a database file -
 <br>$ wget https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz
-<br>$ wget git clone https://github.com/whoiskumaratul/GeoLiteCityDB.git 
+<br>$ wget git clone https://github.com/whoiskumaratul/GeoLiteCityDB.git -->
 <br>
 <br>💥After this we will run this tool.
 <br>
