@@ -51,9 +51,9 @@
 
 <br><h2>💥Requirements💥</h2>
 <br>
-<br>$ sudo pip install -r requirements.txt<br>
-<br>$ wget https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz
-<br>$ wget 
+<br>💥requirements.txt module file
+<br>💥Database file https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz
+<br>💥Databse file https://github.com/whoiskumaratul/GeoLiteCityDB.git 
 <br>
 <br>
 <br>
@@ -61,17 +61,26 @@
 
 
 <br><h2>💥How To Use?💥</h2>
-<br>💥First you need to a run this program and the second thing is nothing.
+<br>💥First of all you need to install the requirements.txt file like python modules -
+<br>$ sudo pip install -r requirements.txt<br>
 <br>
-<br>💥python3 geooccupy.py
+<br> then we download a database file -
+<br>$ wget https://files-cdn.liferay.com/mirrors/geolite.maxmind.com/download/geoip/database/GeoIPASNum.dat.gz
+<br>$ wget git clone https://github.com/whoiskumaratul/GeoLiteCityDB.git 
+<br>
+<br>💥After this we will run this tool.
+<br>
+<br>💥python3 geo.py -ip=$IP or -ip=$Host and select all [options] 
 
 <br>
 <br>
 <br>
+<br><h2>💥Any help?💥</h2>
+<br>$ python3 geo.py -h
 
-
-
-
+<br>
+<br>
+<br>
 
 
 
